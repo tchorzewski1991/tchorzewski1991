@@ -14,7 +14,3 @@
 <a href="https://github.com/tchorzewski1991">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tchorzewski1991&hide_langs_below=1&&hide=javascript" />
 </a>
-
-<a href="https://github.com/tchorzewski1991">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tchorzewski1991&show_icons=true&line_height=27&count_private=true" />
-</a>
